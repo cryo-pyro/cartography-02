@@ -42,7 +42,7 @@ He didn't just wander; he **monetized the wandering**. He created a safe enclosu
 <figure class="hero-figure">
       <div class="image-wrapper">
         <img 
-          src="ukhona/img/crazy-ones.jpg" 
+          src="ukhona/crazy-ones.jpg" 
           alt="The Dude with his Rug" 
           class="hero-image"
         >
