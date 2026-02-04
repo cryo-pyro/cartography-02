@@ -48,6 +48,7 @@ He didn't just wander; he **monetized the wandering**. He created a safe enclosu
         >
       </div>
       <figcaption class="hero-caption">Ibirunga, Mifumbiro</figcaption>
+<figure>
 
 * **The Crazy Ones** = The Innovators (2.5%)
 * **The Colony** = The Early/Late Majority (68%)
